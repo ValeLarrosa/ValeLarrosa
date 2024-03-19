@@ -1,6 +1,6 @@
 ### Hola 👋
 
-✨✨Soy estudiante de Ingeniería en Sistema✨✨
+✨✨Estudiante de Ingeniería en Sistema✨✨
 
 <!--
 **ValeLarrosa/ValeLarrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
